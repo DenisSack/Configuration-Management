@@ -54,3 +54,5 @@ ansible-playbook -i inventory.ini setup.yml --tags "base,nginx"
 
 # Skip the app role, run everything else
 ansible-playbook -i inventory.ini setup.yml --skip-tags "app"
+
+Project URL: https://roadmap.sh/projects/configuration-management
