@@ -1,0 +1,3 @@
+---
+ssh_user: root
+ssh_public_key_file: ./files/authorized_key.pub   # local path to the public key
