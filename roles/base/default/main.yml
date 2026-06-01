@@ -1,0 +1,9 @@
+
+base_packages:
+  - curl
+  - wget
+  - vim
+  - htop
+  - git
+  - ufw
+  - fail2ban
