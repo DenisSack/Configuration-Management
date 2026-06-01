@@ -1,0 +1,4 @@
+---
+app_web_root: /var/www/mywebsite
+# Path to the local tarball containing the static website
+app_tarball_src: ./files/website.tar.gz
