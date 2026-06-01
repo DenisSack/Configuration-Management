@@ -1,4 +1,6 @@
 # Static Website Deployment with Ansible
+Project URL: https://roadmap.sh/projects/configuration-management
+
 
 This project provides an Ansible playbook to automatically provision a web server with:
 
@@ -55,4 +57,4 @@ ansible-playbook -i inventory.ini setup.yml --tags "base,nginx"
 # Skip the app role, run everything else
 ansible-playbook -i inventory.ini setup.yml --skip-tags "app"
 
-Project URL: https://roadmap.sh/projects/configuration-management
+
