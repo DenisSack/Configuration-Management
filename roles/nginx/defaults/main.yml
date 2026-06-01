@@ -1,0 +1,4 @@
+---
+nginx_docroot: /var/www/mywebsite
+nginx_site_name: mywebsite
+nginx_user: www-data
